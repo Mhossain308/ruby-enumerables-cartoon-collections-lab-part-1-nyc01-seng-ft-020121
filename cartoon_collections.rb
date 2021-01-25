@@ -13,4 +13,3 @@ def list_dwarves(array)
   puts "#{i + 2}. #{array[1]}"
   puts "#{i + 3}. #{array[2]}"
 end
-
